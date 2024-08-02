@@ -28,7 +28,7 @@
     <hypersistence-utils.version>3.8.2</hypersistence-utils.version>
     
     <!-- Logging -->
-    <logstash.version>7.4</logstash.version>
+    <logstash.version>8.0</logstash.version>
     
     <!-- Telemetry -->
     <opentelemetry-api.version>1.40.0</opentelemetry-api.version>
